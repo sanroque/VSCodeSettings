@@ -1,0 +1,24 @@
+    {
+        "remote.SSH.defaultExtensions": [
+            "gitpod.gitpod-remote-ssh"
+        ],
+        "remote.SSH.remotePlatform": {
+            "freecodecam-boilerplate-50a2p3wtkya.vss.gitpod.io": "linux",
+            "*.gitpod.io": "linux"
+        },
+        "workbench.colorTheme": "Rosé Pine Moon",
+        "workbench.productIconTheme": "fluent-icons",
+        "symbols.hidesExplorerArrows": false,
+        "workbench.iconTheme": "symbols",
+        "editor.fontSize": 16,
+        "editor.lineHeight": 26,
+        "editor.fontFamily": "JetBrains Mono",
+        "terminal.integrated.fontFamily": "monospace",
+        "editor.tabSize": 2,
+        "emmet.syntaxProfiles": {
+            "javascript": "jsx"
+        },
+        "emmet.includeLanguages": {
+            "javascript": "javascriptreact"
+        }
+    }
